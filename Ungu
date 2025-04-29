@@ -13,4 +13,6 @@ layout app
 partials nav
 section main
 
-buat factory
+buat model
+factory
+seeder
